@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amaranth</item>
+        <item>@font/baloo</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/tomorrow_bold_italic</item>
+        <item>@font/tomorrow_semibold_italic</item>
+    </array>
+</resources>
